@@ -1,6 +1,6 @@
-### Implemented and trained Deep Learning Models in Pytorch Framework
+## Implemented and trained Deep Learning Models in Pytorch Framework
 
-#### DCGAN
+### DCGAN
 
 <p align="center">
     <img src="Outputs/DCGAN.gif" \>
