@@ -1,3 +1,7 @@
-#### Trying to implement and train Deep Learning Models in Pytorch Framework
+### Implemented and trained Deep Learning Models in Pytorch Framework
 
-![](https://imgflip.com/gif/47b6rr)
+#### DCGAN
+
+<p align="center">
+    <img src="Outputs/DCGAN.gif" \>
+</p>
